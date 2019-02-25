@@ -1,0 +1,6 @@
+1 criar variaveis v,r,a, e pi sendo reais
+2 receber valor do raio em cm na variavel r
+3 receber valor da altura em cm na variavel a
+4 guardar valor de 3.14 na variavel pi
+5 gardar valor de pi*r^2*a na variavel v
+6 mostrar resultado
